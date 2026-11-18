@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 46b3a5edbdfe0b448919d545950c71c6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 10875
+  packageName: 'Underworld: Cave Environment'
+  packageVersion: 1.31
+  assetPath: Assets/Underworld/Origin/Tools/Tessellation_MK4_Amplify.shader
+  uploadId: 301157

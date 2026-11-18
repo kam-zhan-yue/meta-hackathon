@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7fc3a057a98dc2c41ae5a881a46ce1bc
+timeCreated: 1472276905
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 10875
+  packageName: 'Underworld: Cave Environment'
+  packageVersion: 1.31
+  assetPath: Assets/Underworld/Origin/Materials/Legacy/_White.mat
+  uploadId: 301157

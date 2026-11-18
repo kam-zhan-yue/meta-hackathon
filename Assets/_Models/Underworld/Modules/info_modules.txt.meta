@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4ed49be906439124fb5f8c61627eb982
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 10875
+  packageName: 'Underworld: Cave Environment'
+  packageVersion: 1.31
+  assetPath: Assets/Underworld/Modules/info_modules.txt
+  uploadId: 301157

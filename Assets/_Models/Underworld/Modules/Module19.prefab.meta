@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a05ecddd87eafd34a92412afdfe6217e
+labels:
+- size-10x30m
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 10875
+  packageName: 'Underworld: Cave Environment'
+  packageVersion: 1.31
+  assetPath: Assets/Underworld/Modules/Module19.prefab
+  uploadId: 301157

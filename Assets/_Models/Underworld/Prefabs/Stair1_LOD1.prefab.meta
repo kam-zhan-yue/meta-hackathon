@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3164f2fc43a58b64ebb923a331d3b1b0
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 10875
+  packageName: 'Underworld: Cave Environment'
+  packageVersion: 1.31
+  assetPath: Assets/Underworld/Prefabs/Stair1_LOD1.prefab
+  uploadId: 301157

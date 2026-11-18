@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4384ff07615d86d489d3f9fa432cf896
+timeCreated: 1472248449
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 10875
+  packageName: 'Underworld: Cave Environment'
+  packageVersion: 1.31
+  assetPath: Assets/Underworld/Particles/origin/Meshes/Materials/polySurface1Mat.mat
+  uploadId: 301157

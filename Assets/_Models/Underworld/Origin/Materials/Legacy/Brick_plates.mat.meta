@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76370ad3213e7c94a9b6d9d7da1ef8a6
+timeCreated: 1472276905
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 10875
+  packageName: 'Underworld: Cave Environment'
+  packageVersion: 1.31
+  assetPath: Assets/Underworld/Origin/Materials/Legacy/Brick_plates.mat
+  uploadId: 301157

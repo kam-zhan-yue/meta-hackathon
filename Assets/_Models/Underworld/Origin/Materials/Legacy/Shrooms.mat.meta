@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 85f3b5fca0cedea48be025d58471eff7
+timeCreated: 1472276905
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 10875
+  packageName: 'Underworld: Cave Environment'
+  packageVersion: 1.31
+  assetPath: Assets/Underworld/Origin/Materials/Legacy/Shrooms.mat
+  uploadId: 301157

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d6ca98376ee9e204c8a7aea02f4f0794
+timeCreated: 1472276905
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 10875
+  packageName: 'Underworld: Cave Environment'
+  packageVersion: 1.31
+  assetPath: Assets/Underworld/Origin/Materials/Legacy/Roots.mat
+  uploadId: 301157

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 92bf54307eafe2448925c6e71a1eeff1
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 10875
+  packageName: 'Underworld: Cave Environment'
+  packageVersion: 1.31
+  assetPath: Assets/Underworld/Prefabs/Gateway_LOD1.prefab
+  uploadId: 301157

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eea6c753609de714182f6072a5589d2f
+timeCreated: 1472276905
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 10875
+  packageName: 'Underworld: Cave Environment'
+  packageVersion: 1.31
+  assetPath: Assets/Underworld/Origin/Textures/grid.mat
+  uploadId: 301157

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6fbcfd2e374f6b44a817b88bce8b9cd1
+timeCreated: 1438498665
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42948
+  packageName: Seven Medieval Heroes
+  packageVersion: 1.1
+  assetPath: Assets/Seven_Medieaval_Heroes/City_guard/City_guard Controller.controller
+  uploadId: 112875
